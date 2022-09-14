@@ -27,3 +27,11 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 wktaf-stockassessment.Rproj
+
+
+/bootstrap/data/
+
+/data/
+/model/
+/output/
+/report/
